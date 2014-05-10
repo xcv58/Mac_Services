@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>~/.emacs.d/ns-frame.sh &amp;&amp; /Applications/Emacs.app/Contents/MacOS/bin/emacsclient -n "$*"</string>
+					<string>/Applications/Emacs.app/Contents/MacOS/bin/emacsclient -n "$*"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
