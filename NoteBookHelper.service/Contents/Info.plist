@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12F45</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>NoteBookHelper</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Copyright 2003-2014 Circus Ponies Software, Inc.</string>
+	<key>CFBundleIconFile</key>
+	<string>NoteBookHelperIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.CircusPonies.NoteBookHelper</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.0.4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6.0.4</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>5B1008</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>13C64</string>
+	<key>DTSDKName</key>
+	<string>macosx10.9</string>
+	<key>DTXcode</key>
+	<string>0511</string>
+	<key>DTXcodeBuild</key>
+	<string>5B1008</string>
+	<key>LSUIElement</key>
+	<string>1</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSServices</key>
+	<array>
+		<dict>
+			<key>NBServiceTitle</key>
+			<string>[Untitled]</string>
+			<key>NSActivateProvider</key>
+			<string>No</string>
+			<key>NSDeactivateRequestor</key>
+			<string>No</string>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>English</key>
+				<string>NoteBook/Clip and Annotate...</string>
+				<key>French</key>
+				<string>NoteBook/Attacher et annoter...</string>
+				<key>German</key>
+				<string>NoteBook/Clippen und annotieren …</string>
+				<key>default</key>
+				<string>NoteBook/Clip and Annotate...</string>
+				<key>ja</key>
+				<string>NoteBook/クリップして注釈付け...</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>clipAndAnnotate</string>
+			<key>NSPortName</key>
+			<string>NoteBookHelper</string>
+			<key>NSRequiredContext</key>
+			<dict>
+				<key>NSServiceCategory</key>
+				<string>General</string>
+			</dict>
+			<key>NSSendTypes</key>
+			<array>
+				<string>com.CircusPonies.NoteBook.NotebookPasteboardType</string>
+				<string>NSRTFDPboardType</string>
+				<string>NSRTFPboardType</string>
+				<string>NSPostScriptPboardType</string>
+				<string>NSTIFFPboardType</string>
+				<string>NSTabularTextPboardType</string>
+				<string>NSFileContentsPboardType</string>
+				<string>NSFilenamesPboardType</string>
+				<string>NSStringPboardType</string>
+			</array>
+			<key>NSUserData</key>
+			<string>ClipAndAnnotate</string>
+		</dict>
+		<dict>
+			<key>NBAlias</key>
+			<data>
+			AAAAAAHGAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADP
+			tTfpSCsAAAD78fMLdW50aXRsZWQubmIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPzC
+			k9A+WfgAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACEF1
+			dG9zYXZlABAACAAAz7VwKQAAABEACAAA0D6SOAAAAAEAGAD78fMA
+			+/HyABAWtgAQFiIADsnMAA7I9gACAFhNYWNpbnRvc2ggSEQ6VXNl
+			cnM6AHhjdjU4OgBMaWJyYXJ5OgBBcHBsaWNhdGlvbiBTdXBwb3J0
+			OgBOb3RlQm9vazoAQXV0b3NhdmU6AHVudGl0bGVkLm5iAA4AGAAL
+			AHUAbgB0AGkAdABsAGUAZAAuAG4AYgAPABoADABNAGEAYwBpAG4A
+			dABvAHMAaAAgAEgARAASAEVVc2Vycy94Y3Y1OC9MaWJyYXJ5L0Fw
+			cGxpY2F0aW9uIFN1cHBvcnQvTm90ZUJvb2svQXV0b3NhdmUvdW50
+			aXRsZWQubmIAABMAAS8AABUAAgAM//8AAA==
+			</data>
+			<key>NBClippingServiceType</key>
+			<string>Page Clipping Service</string>
+			<key>NBDestName</key>
+			<string>Web Research</string>
+			<key>NBIdentifierString</key>
+			<string>28F35D42-3695-4022-A3CD-1CF1A5C490DB-10789-00001E1A6FA3B31A</string>
+			<key>NBNotebookName</key>
+			<string>untitled</string>
+			<key>NBPageIdentifierString</key>
+			<string>2</string>
+			<key>NBPageName</key>
+			<string>Web Research</string>
+			<key>NSActivateProvider</key>
+			<string>No</string>
+			<key>NSDeactivateRequestor</key>
+			<string>No</string>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>English</key>
+				<string>NoteBook/Clip to untitled → Web Research</string>
+				<key>French</key>
+				<string>NoteBook/Clip to untitled → Web Research</string>
+				<key>German</key>
+				<string>NoteBook/Clip to untitled → Web Research</string>
+				<key>default</key>
+				<string>NoteBook/Clip to untitled → Web Research</string>
+				<key>ja</key>
+				<string>NoteBook/Clip to untitled → Web Research</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>clipToPage</string>
+			<key>NSNotebookName</key>
+			<string>untitled</string>
+			<key>NSPortName</key>
+			<string>NoteBookHelper</string>
+			<key>NSRequiredContext</key>
+			<dict>
+				<key>NSServiceCategory</key>
+				<string>General</string>
+			</dict>
+			<key>NSSendTypes</key>
+			<array>
+				<string>com.CircusPonies.NoteBook.NotebookPasteboardType</string>
+				<string>NSRTFDPboardType</string>
+				<string>NSRTFPboardType</string>
+				<string>NSPostScriptPboardType</string>
+				<string>NSTIFFPboardType</string>
+				<string>NSTabularTextPboardType</string>
+				<string>NSFileContentsPboardType</string>
+				<string>NSFilenamesPboardType</string>
+				<string>NSStringPboardType</string>
+			</array>
+			<key>NSUserData</key>
+			<string>untitled-2</string>
+		</dict>
+	</array>
+	<key>com.CircusPonies.NoteBookHelper</key>
+	<string>CFBundleIdentifier</string>
+</dict>
+</plist>
